@@ -11,6 +11,12 @@
 
 
 @media (max-width: 767px) {
+
+body {
+    width: 100%;
+}
+    
+    
     header {
         background-color: #000000;
         border-bottom: 1px solid red;
@@ -141,15 +147,15 @@
         text-decoration: none;
         border-radius: 55px;
         border: 1px solid rgb(255, 0, 0);
-        padding: 10px;
+        padding: 2px;
         text-align: center;
-        margin-top: 15px;
+        margin-top: 2px;
     }
 
     .price-link {
         text-decoration: none;
         color: white;
-        font-size: 15px;
+        font-size: 10px;
     }
 }
 
