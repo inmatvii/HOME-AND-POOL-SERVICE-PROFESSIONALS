@@ -20,6 +20,7 @@ body {
     header {
         background-color: #000000;
         border-bottom: 1px solid red;
+        font-size: 15px;
     }
 
     .logo-main {
