@@ -12,6 +12,30 @@
 
 @media (max-width: 767px) {
 
+header {
+        background-color: #000000;
+        border-bottom: 1px solid red;
+    }
+
+    .logo-main {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    
+    #logo {
+        height: 68px;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    
+    .logo-text {
+        color: white;
+        margin-left: -48px;
+        letter-spacing: 2px;
+        font-size: 15px;
+    }
+    
 body {
     width: 100%;
 }
